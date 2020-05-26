@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/facade.dir/main.cpp.o CMakeFiles/facade.dir/facadebank/bank.cpp.o CMakeFiles/facade.dir/facadebank/accountManager.cpp.o  -o facade 

@@ -1,0 +1,3 @@
+/home/kayd/Tec/DatosII/FacadeBank/Facadebank/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kayd/Tec/DatosII/FacadeBank/Facadebank/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kayd/Tec/DatosII/FacadeBank/Facadebank/cmake-build-debug/CMakeFiles/facade.dir
